@@ -1,0 +1,2 @@
+# vinlog
+composer test vinlog
