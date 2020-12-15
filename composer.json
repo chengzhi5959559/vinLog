@@ -1,0 +1,21 @@
+{
+  "name": "vinlog/logtool",
+  "description": "logtool",
+  "type": "1",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "chengzhi5959559",
+      "email": "3289614616@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "vinlog\\": "src/vinlog"
+    }
+  },
+  "minimum-stability": "dev"
+}
