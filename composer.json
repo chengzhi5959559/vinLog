@@ -17,5 +17,5 @@
       "vinlog\\": "src/vinlog"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
